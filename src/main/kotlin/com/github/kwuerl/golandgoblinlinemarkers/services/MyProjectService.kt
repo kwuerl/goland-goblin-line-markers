@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.kwuerl.golandgoblinlinemarkers.services
 
+import com.github.kwuerl.golandgoblinlinemarkers.MyBundle
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
 
 class MyProjectService(project: Project) {
 
